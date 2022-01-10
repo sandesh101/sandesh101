@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandesh Rimal</h1>
+<h1 align="center">Namaste 🙏, I'm Sandesh Rimal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh101&label=Profile%20views&color=0e75b6" alt="sandesh101" /> </p>
 
 - 🔭 I’m currently **a student.**
