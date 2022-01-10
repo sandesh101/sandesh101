@@ -9,3 +9,5 @@
  -->
  <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=sandesh101&&show_icons=true&title_color=950101&icon_color=950101&text_color=ffffff&bg_color=0F0E0E">
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh101&layout=compact&theme=dracula">
