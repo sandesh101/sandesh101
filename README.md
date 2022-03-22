@@ -1,5 +1,4 @@
 <h1 align="center">Namaste 🙏, I'm Sandesh Rimal</h1>
-<h4 align="center">Taking break till exams are over</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh101&label=Profile%20views&color=0e75b6&theme=dracula" alt="sandesh101" /> </p>
 
 - 🔭 I’m currently **a student.**
